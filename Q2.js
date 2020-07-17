@@ -1,0 +1,10 @@
+var flowers=["Lotus","SunFlower","Jasmine","Rose"];
+console.log(flowers);
+console.log(flowers.toString());
+console.log(flowers.shift());
+console.log(flowers.slice(0,1));
+console.log(flowers.sort());
+console.log(flowers.splice(2));
+console.log(flowers.toLocaleString());
+console.log(flowers.unshift());
+console.log(flowers.values());
